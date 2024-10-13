@@ -14,8 +14,8 @@ const Projects = () => {
             imgSrc='/images/website.png'
             projectTitle='This website'
             stackInfo='React.js, Next.js, Chakra UI, Vanta.js'
-            source='https://github.com/hyun-an/hyunan'
-            href='https://github.com/hyun-an/hyunan'
+            source='https://github.com/hyunan/hyunan-web'
+            href='https://github.com/hyunan/hyunan-web'
             show={true}
           />
           <ProjectIcon
